@@ -1,0 +1,11 @@
+en:
+  docs:
+    api:
+      v1:
+        schools:
+          index:
+            endpoint: '/v1/schools'
+            description: 'Get a list of all schools'
+            long_description: |
+              ### Classroom Assessment Details
+              This request will return a list of all schools, as per the provided CSV
