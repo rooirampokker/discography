@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-
+gem 'dotenv-rails'
+#user authentication
+gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use mysql2 as the database for Active Record
